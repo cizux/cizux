@@ -1,6 +1,7 @@
 # 👨‍💻 Tarcísio Paz Junger
 
-**`Desenvolvedor FullStack`**
+
+## **`Desenvolvedor FullStack`**
 
 Me chamo Tarcísio, sou Cristão, Casado, pai do Davi, tenho 46 anos e sou natural do Espírito Santo. 
 Tenho nível Técnico em informática para internet pela UNICORP. Atualmente, estou cursando Ciências da Computação na ESTÁCIO e sou apaixonado por tecnologia.
@@ -47,15 +48,17 @@ Tenho nível Técnico em informática para internet pela UNICORP. Atualmente, es
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="170" 
+    width="400"
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=cizux&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
-      alt="GitHub Stats" 
-      height="150" 
+      alt="GitHub Stats"
+      width="400" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=cizux&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
