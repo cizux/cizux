@@ -55,7 +55,7 @@ Tenho nível Técnico em informática para internet pela UNICORP. Atualmente, es
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="170" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=cizux&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
