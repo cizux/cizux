@@ -48,7 +48,7 @@ Tenho nível Técnico em informática para internet pela Faculdade UNICORP. Atua
   <img 
     align="left" 
     alt="GitHub Stats" 
-    width="48%"
+    width="45%"
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=cizux&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
@@ -57,7 +57,7 @@ Tenho nível Técnico em informática para internet pela Faculdade UNICORP. Atua
 <img 
       align="right" 
       alt="GitHub Stats"
-      width="48%" 
+      width="45%" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=cizux&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=20" 
   />
