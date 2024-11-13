@@ -192,8 +192,10 @@ Tenho nível Técnico em informática para internet pela Faculdade UNICORP. Atua
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
 />
-<br/><br/>
-##
+
+<br/><br/><br/>
+--
+<br/>
            
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cizux&bg_color=1A1B27&color=38BDAE&line=70A5FD&point=BF91F3&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)          
       
