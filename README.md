@@ -1,12 +1,12 @@
-# 👨‍💻 Tarcísio Paz Junger
+# 👨🏽‍💻 Tarcísio Paz Junger
 
 
 ## **`Desenvolvedor FullStack`**
 
-Me chamo Tarcísio, sou Cristão, Casado, pai do Davi, tenho 46 anos e sou natural do Espírito Santo. 
-Tenho nível Técnico em informática para internet pela UNICORP. Atualmente, estou cursando Ciências da Computação na ESTÁCIO e sou apaixonado por tecnologia.
+Seja muito bem vindo(a) ao meu repostório, me chamo Tarcísio, sou Cristão, Casado, pai do Davi, tenho 46 anos e sou natural do Espírito Santo/BR. 
+Tenho nível Técnico em informática para internet pela Faculdade UNICORP. Atualmente, estou cursando Ciências da Computação na ESTÁCIO e sou apaixonado💕 por tecnologia👨🏽‍💻.
 <!--
- Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[TarcisioJunger](https://www.youtube.com/@tarcisiojunger)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev Juninho](https://www.instagram.com/de_juninho/)". -->
+ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[TarcisioJunger](https://www.youtube.com/@tarcisiojunger)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev Juninho](https://www.instagram.com/dev_juninho/)". -->
 
 <p align="left">
   <!--  <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
@@ -48,20 +48,20 @@ Tenho nível Técnico em informática para internet pela UNICORP. Atualmente, es
   <img 
     align="left" 
     alt="GitHub Stats" 
-    width="400"
+    width="48%"
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=cizux&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats"
-      width="400" 
+      width="48%" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cizux&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cizux&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=20" 
   />
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 </p>
 
 ---
@@ -192,7 +192,8 @@ Tenho nível Técnico em informática para internet pela UNICORP. Atualmente, es
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
 />
-
-            
-          
-          
+<br/><br/>
+##
+           
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cizux&bg_color=1A1B27&color=38BDAE&line=70A5FD&point=BF91F3&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)          
+      
