@@ -3,7 +3,7 @@
 
 ## **`Desenvolvedor FullStack`**
 
-Seja muito bem vindo(a) ao meu repostório, me chamo Tarcísio, sou Cristão, Casado, pai do Davi, tenho 46 anos e sou natural do Espírito Santo/BR. 
+Seja muito bem vindo(a) ao meu repositório, me chamo Tarcísio, sou Cristão, Casado, pai do Davi, tenho 46 anos e sou natural do Espírito Santo/BR. 
 Tenho nível Técnico em informática para internet pela Faculdade UNICORP. Atualmente, estou cursando Ciências da Computação na ESTÁCIO e sou apaixonado💕 por tecnologia👨🏽‍💻.
 <!--
  Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[TarcisioJunger](https://www.youtube.com/@tarcisiojunger)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev Juninho](https://www.instagram.com/dev_juninho/)". -->
