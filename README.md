@@ -42,6 +42,9 @@ Fique à vontade para explorar meus projetos e, se tiver alguma dúvida ou suges
             src="https://custom-icon-badges.demolab.com/github/followers/cizux?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarcisio-junger/)  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tarcisiojunger.dev.br)
+ 
 </p>
 
 ---
