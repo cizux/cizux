@@ -5,7 +5,7 @@
 
 Olá! Seja muito bem-vindo(a) ao meu repositório!
 
-Meu nome é Tarcísio, sou cristão, casado e pai do Davi. Tenho 46 anos e sou natural do Espírito Santo (BR). Possuo Técnico em Informática para Internet pela Faculdade UNICORP e, atualmente, estou cursando Ciências da Computação na ESTÁCIO.
+Meu nome é Tarcísio, sou cristão, casado e pai do Davi. Sou natural do Espírito Santo (BR). Possuo Técnico em Informática para Internet pela Faculdade UNICORP e, atualmente, estou cursando Ciências da Computação na ESTÁCIO.
 
 Sou um apaixonado por tecnologia 💻 e estou sempre em busca de aprender mais e aplicar meu conhecimento para resolver desafios. Meu foco é em desenvolvimento FullStack, mas também tenho um grande interesse em explorar novas ferramentas e tecnologias.
 
