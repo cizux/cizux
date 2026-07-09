@@ -1,209 +1,144 @@
-# 👨🏽‍💻 Tarcísio Paz Junger
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
+```text
+█▀▀ ▄▀█ █▀▄▀█ █▀▀ █▀ █ █▄ █ █▀▀ █ █ █▀▀
+█▄▄ █▀█ █ ▀ █ ██▄ ▄█ █ █ ▀█ █▄▄ █▄█ ██▄
+```
 
-## **`Desenvolvedor FullStack`**
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Tarc%C3%ADsio+Paz+Junger;%F0%9F%9A%80+Desenvolvedor+FullStack;%E2%9C%9D%EF%B8%8F+Crist%C3%A3o+%7C+Casado+%7C+Pai+do+Davi;%F0%9F%93%8D+ES+-+Brasil" alt="Typing SVG" />
+</h1>
 
-Olá! Seja muito bem-vindo(a) ao meu repositório!
-
-Meu nome é Tarcísio, sou cristão, casado e pai do Davi. Sou natural do Espírito Santo (BR). Possuo Técnico em Informática para Internet pela Faculdade UNICORP e, atualmente, estou cursando Ciências da Computação na ESTÁCIO.
-
-Sou um apaixonado por tecnologia 💻 e estou sempre em busca de aprender mais e aplicar meu conhecimento para resolver desafios. Meu foco é em desenvolvimento FullStack, mas também tenho um grande interesse em explorar novas ferramentas e tecnologias.
-
-Fique à vontade para explorar meus projetos e, se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato!
-<!--
- Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[TarcisioJunger](https://www.youtube.com/@tarcisiojunger)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev Juninho](https://www.instagram.com/dev_juninho/)". -->
-
-<p align="left">
-  <!--  <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a> 
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> -->
-    <a href="https://github.com/cizux?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/cizux?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/cizux?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/cizux?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarcisio-junger/)  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tarcisiojunger.dev.br)
- 
+<p align="center">
+  <a href="https://github.com/cizux?tab=repositories&sort=stargazers">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/cizux?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" alt="Stars"/>
+  </a>
+  <a href="https://github.com/cizux?tab=followers">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/cizux?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=github&label=Seguidores&logoColor=white" alt="Followers"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tarcisio-junger/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://tarcisiojunger.dev.br">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=cizux&label=Visitantes&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **Sobre Mim**
 
-### 📊 Estatísticas
+<table>
+<tr>
+<td>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    width="47%"
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=cizux&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+Olá! 👋 Me chamo **Tarcísio**, sou cristão ✝️, casado 💍 e pai do Davi 👶. Natural do Espírito Santo (BR) 🇧🇷.
 
-<img 
-      align="right" 
-      alt="GitHub Stats"
-      width="47%" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cizux&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=20" 
-  />
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-</p>
+- 🎓 **Técnico em Informática para Internet** — Faculdade UNICORP
+- 🎓 **Cursando Ciências da Computação** — ESTÁCIO
+- 💻 **Desenvolvedor FullStack** apaixonado por tecnologia
+- 🚀 Sempre explorando novas ferramentas e desafios
+
+</td>
+<td align="center">
+  <img width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUzZ2JkcnRiMnBkNmljcDQxbzc3MnBucjN5b2Z6ajNpengzOWwybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
+</td>
+</tr>
+</table>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> **Linguagens & Tecnologias**
 
-<img 
-    align="left" 
-    alt="Spring"
-    title="Spring" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
+<div align="center">
+  
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<img 
-    align="left" 
-    alt="Angular"
-    title="Angular" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
-/>
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
- <img 
-    align="left" 
-    alt="Json"
-    title="Json" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" 
-/> 
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<br/><br/><br/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="mongoDB" 
-    title="mongoDB"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
-/>
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-<br/><br/><br/>
---
-<br/>
-           
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cizux&bg_color=1A1B27&color=38BDAE&line=70A5FD&point=BF91F3&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)          
-      
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> **GitHub Analytics**
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cizux&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cizux&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=16&hide_progress=false" alt="Top Langs"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=cizux&theme=tokyonight&locale=pt_BR&date_format=j%2Fn%5BY%5D" width="70%" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cizux&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophy"/>
+</div>
+
+---
+
+## 📊 **Contribution Graph**
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cizux&bg_color=1A1B27&color=38BDAE&line=70A5FD&point=BF91F3&area=true&hide_border=true&custom_title=Contribuições%20nos%20Últimos%2031%20Dias)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🎯 **3D Contribution Calendar**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cizux/cizux/main/profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cizux/cizux/main/profile-3d-contrib/profile-gitblock.svg">
+  <img alt="3D Contribution Calendar" src="https://raw.githubusercontent.com/cizux/cizux/main/profile-3d-contrib/profile-night-green.svg">
+</picture>
+
+> **💡 Dica:** Para ativar o calendário 3D, adicione o workflow do [profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) ao seu repositório `cizux/cizux`.
+
+---
+
+## 📫 **Vamos Conversar?**
+
+Sinta-se à vontade para explorar meus projetos, abrir issues, contribuir ou apenas trocar uma ideia! Toda sugestão é bem-vinda. 😊
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarcisio-junger/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://tarcisiojunger.dev.br)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarcisiojunger@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <i>"A tecnologia move o mundo, mas a fé move montanhas."</i> 🙏
+</div>
